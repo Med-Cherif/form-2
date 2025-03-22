@@ -86,3 +86,8 @@ button {
   display: flex;
   gap: 12px;
 }
+
+.form-group-message {
+  font-size: 14px;
+  color: red;
+}
