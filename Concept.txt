@@ -1,0 +1,31 @@
+- Render
+When component is rerender
+- if its state changes (NO)
+- if its parent rerender (NO)
+
+react states are
+- useState
+- stores as zustand
+- redux
+- useReducer
+...ect
+
+
+- Controlled Fields
+are the fields are controlled by react state
+
+- Uncontrolled Fields
+are the fields are controlled by the element itself
+
+
+
+
+
+
+When to use Controller over register
+- if the field needs to be controlled
+- if the field props are not compatible with register
+- if you want to have full control over the value and onChange
+
+
+
